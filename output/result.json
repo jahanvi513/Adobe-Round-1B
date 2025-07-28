@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "documents": [
+      "Influential_nodes_identification_for_complex_netwo.pdf",
+      "Identification_of_Key_Nodes_in_Complex_Networks_Based_on_Network_Representation_Learning.pdf",
+      "Identifying_influential_nodes_based_on_the_disasso.pdf"
+    ],
+    "persona": "Senior Researcher in Network Science focusing on real-world complex networks",
+    "job": "Identify the most effective node ranking algorithms with proven robustness and diffusion performance in real-world datasets",
+    "timestamp": "2025-07-28T17:39:49.306676Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Identifying_influential_nodes_based_on_the_disasso.pdf",
+      "page": 2,
+      "section_title": "2 Vol:.(1234567890) Scientific Reports |         (2024) 14:8",
+      "importance_rank": 1
+    },
+    {
+      "document": "Influential_nodes_identification_for_complex_netwo.pdf",
+      "page": 8,
+      "section_title": "objects. Gravity models assess the interaction between node ",
+      "importance_rank": 2
+    },
+    {
+      "document": "Identifying_influential_nodes_based_on_the_disasso.pdf",
+      "page": 16,
+      "section_title": "16 Vol:.(1234567890) Scientific Reports |         (2024) 14:",
+      "importance_rank": 3
+    },
+    {
+      "document": "Identification_of_Key_Nodes_in_Complex_Networks_Based_on_Network_Representation_Learning.pdf",
+      "page": 2,
+      "section_title": "H. Zhang et al.: Identification of Key Nodes in Complex Netw",
+      "importance_rank": 4
+    },
+    {
+      "document": "Influential_nodes_identification_for_complex_netwo.pdf",
+      "page": 3,
+      "section_title": "structure characteristics of nodes and evaluate the propagat",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Identifying_influential_nodes_based_on_the_disasso.pdf",
+      "page": 2,
+      "refined_text": "2 Vol:.(1234567890) Scientific Reports |         (2024) 14:8453  |  https://doi.org/10.1038/s41598-024-59071-x www.nature.com/scientificreports/ location, neighborhood based topological structure and shortest path to calculate the node mass and node loose- ness distance. Yu et al.18 in the process of identifying critical nodes in complex networks drew inspiration from  convolutional neural networks in deep learning. Community structure is an important attribute of network. Methods for detecting ",
+      "importance_rank": 1
+    },
+    {
+      "document": "Influential_nodes_identification_for_complex_netwo.pdf",
+      "page": 8,
+      "refined_text": "objects. Gravity models assess the interaction between node pairs to evaluate their influence. In this model, a  node’s influence is influenced by two primary factors. The first factor is the node’s degree; a higher number of  adjacent nodes suggests an increased capacity for direct influence, thus enhancing the overall effect of the node.  The second factor involves the distance between nodes, as the strength of influence decreases in proportion to the  square of the distance-nodes that are clo",
+      "importance_rank": 2
+    },
+    {
+      "document": "Identifying_influential_nodes_based_on_the_disasso.pdf",
+      "page": 16,
+      "refined_text": "16 Vol:.(1234567890) Scientific Reports |         (2024) 14:8453  |  https://doi.org/10.1038/s41598-024-59071-x www.nature.com/scientificreports/ performance of the mDC centrality metric is better in networks with more clear community structures than in  networks where community structures are unclear. From Fig. 7, it can be observed that for existing community-based centrality metrics like HBC, they tend to  focus excessively on the size of network communities. This often results in the identif",
+      "importance_rank": 3
+    },
+    {
+      "document": "Identification_of_Key_Nodes_in_Complex_Networks_Based_on_Network_Representation_Learning.pdf",
+      "page": 2,
+      "refined_text": "H. Zhang et al.: Identification of Key Nodes in Complex Networks straightforward and extensively employed, their drawback lies in their partial utilization of the intricate structural traits of the network. In the pursuit of more effectively identifying the most influential key nodes, machine learning-based algorithms for key node identification are emerging as promising tools. These approaches can be categorized as either supervised or unsupervised methods. The supervised method generally invol",
+      "importance_rank": 4
+    },
+    {
+      "document": "Influential_nodes_identification_for_complex_netwo.pdf",
+      "page": 3,
+      "refined_text": "structure characteristics of nodes and evaluate the propagation ability of nodes from a multi-dimensional  perspective. Its advantage is that it can efficiently identify important nodes in the network with nearly linear  time complexity without adjusting any free parameters, showing high accuracy and applicability. However, the  limitation of DCL method is that its local perspective may not be able to fully capture the overall structural  features of the network, and for network regions with hig",
+      "importance_rank": 5
+    }
+  ]
+}
